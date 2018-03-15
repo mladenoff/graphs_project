@@ -50,7 +50,7 @@ describe 'MinSpanningTree' do
   end
 
   it "works on a square with center graph" do
-    vertices = [ny, sf, la, chi]
+    vertices = [ny, sf, la, chi, sea]
 
     # ny ==== chi
     #     la
